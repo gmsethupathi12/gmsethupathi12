@@ -136,14 +136,22 @@ IoT 📡
 
 ---
 
+---
+
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/gmsethupathi12">
+    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gmsethupathi12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-<a href="https://github.com/gmsethupathi12">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
+<p align="center">
+  📧 <a href="mailto:gmsethupathi12@gmail.com">gmsethupathi12@gmail.com</a>
 </p>
 
 ---
