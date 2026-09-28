@@ -136,22 +136,33 @@ IoT 📡
 
 ---
 
+
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/gmsethupathi12">
-    <img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:gmsethupathi12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+<a href="https://github.com/gmsethupathi12">
+  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/sethupathi12" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:gmsethupathi12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+</a>
+
 </p>
 
 <p align="center">
   📧 <a href="mailto:gmsethupathi12@gmail.com">gmsethupathi12@gmail.com</a>
+  &nbsp; • &nbsp;
+  💼 <a href="https://www.linkedin.com/in/sethupathi12">LinkedIn</a>
 </p>
 
 ---
