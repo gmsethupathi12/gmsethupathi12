@@ -1,174 +1,253 @@
-<!-- ================= HEADER ================= -->
+<!-- ===================== HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Sethupathi</h1>
+<h1 align="center">
+  <span style="color:#F7E7CE;">Hi 👋, I'm Sethupathi</span>
+</h1>
 
 <h3 align="center">
-Full Stack Developer in Progress | ECE Student | Embedded Systems Enthusiast
+  Full Stack Developer in Progress • ECE Student • Embedded Systems Enthusiast
 </h3>
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F7E7CE&center=true&vCenter=true&width=750&lines=Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%94%A5;Full+Stack+Development+%F0%9F%8C%90;Embedded+Systems+%F0%9F%94%8C;AI+%26+IoT+Explorer+%F0%9F%A4%96;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80" />
+</p>
 
-🚀 Full Stack Development &nbsp;&nbsp; • &nbsp;&nbsp;
-🔌 Embedded Systems &nbsp;&nbsp; • &nbsp;&nbsp;
-🤖 AI &nbsp;&nbsp; • &nbsp;&nbsp;
-🌐 Web Development &nbsp;&nbsp; • &nbsp;&nbsp;
-📡 IoT &nbsp;&nbsp; • &nbsp;&nbsp;
-💡 Building Real-World Projects
+<p align="center">
 
-</marquee>
+<a href="https://github.com/gmsethupathi12">
+<img src="https://img.shields.io/badge/GITHUB-0B1F3A?style=for-the-badge&logo=github&logoColor=F7E7CE"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sethupathi12">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=F7E7CE"/>
+</a>
+
+<a href="mailto:gmsethupathi12@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0B1F3A?style=for-the-badge&logo=gmail&logoColor=F7E7CE"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BUILDING%20THE%20FUTURE-F7E7CE?style=for-the-badge&labelColor=0B1F3A&color=0B1F3A"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-<marquee behavior="scroll" direction="right" scrollamount="4">
+🎓 Electronics & Communication Engineering Student
 
-🎓 ECE Student &nbsp; | &nbsp;
-🌐 Full Stack Developer in Progress &nbsp; | &nbsp;
-🔌 Embedded Systems Enthusiast &nbsp; | &nbsp;
-🤖 AI Explorer &nbsp; | &nbsp;
-🚀 Builder &nbsp; | &nbsp;
-🧠 Problem Solver
+🌐 **Full Stack Developer in Progress**
 
-</marquee>
+🔌 **Embedded Systems & IoT Enthusiast**
 
-- 🎓 Electronics & Communication Engineering student
-- 🌐 Learning Full Stack Development
-- 🔌 Interested in Embedded Systems & IoT
-- 🤖 Exploring AI-powered applications
-- 🧠 Improving Data Structures & Algorithms
-- 🚀 Building practical projects
+🤖 Exploring AI-powered applications
+
+🧠 Practicing Data Structures & Algorithms
+
+💡 Turning ideas into practical projects
+
+🚀 Always learning, experimenting and building
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies I Work With
+
+### 💻 Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+</p>
+
+### 🌐 Full Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express" />
+</p>
+
+### 🗄️ Database & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,postman" />
+</p>
+
+### 🔌 Embedded & IoT
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode" />
+ESP32 • Sensors • IoT • Embedded Systems
 
 </p>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Currently Building
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
+<p align="center">
 
-🌐 Full Stack Applications &nbsp;&nbsp;&nbsp;
-🤖 AI Projects &nbsp;&nbsp;&nbsp;
-🔌 Embedded Systems &nbsp;&nbsp;&nbsp;
-📡 IoT Projects &nbsp;&nbsp;&nbsp;
-📊 Data Applications &nbsp;&nbsp;&nbsp;
-💡 Innovative Projects
+🥂 Full Stack Applications  
+&nbsp; • &nbsp;
+🤖 AI Projects  
+&nbsp; • &nbsp;
+🔌 Embedded Systems  
+&nbsp; • &nbsp;
+📡 IoT Solutions  
+&nbsp; • &nbsp;
+💡 Real-World Technology
 
-</marquee>
+</p>
 
 ---
 
 ## 📂 Featured Projects
 
+<table align="center">
+
+<tr>
+
+<td width="50%">
+
 ### 📈 Indian Stocks Analysis
 
-A project focused on analysing Indian stock market data.
+Exploring and analysing Indian stock market data.
 
-[View Project](https://github.com/gmsethupathi12/indian-stocks-Analysis)
+<a href="https://github.com/gmsethupathi12/indian-stocks-Analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-F7E7CE?style=for-the-badge&labelColor=0B1F3A&color=0B1F3A"/>
+</a>
 
-### 🌱 Smart Irrigation System
+</td>
 
-IoT-based automatic irrigation using ESP32, soil moisture sensing, relay and water pump.
+<td width="50%">
+
+### 🌱 Smart Irrigation
+
+ESP32-based automatic irrigation using sensors and a relay-controlled pump.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 💻 Programming Projects
 
-A collection of programming practice and learning projects.
+C, C++, Java and Python learning & problem-solving projects.
 
-[View Repositories](https://github.com/gmsethupathi12?tab=repositories)
+</td>
+
+<td width="50%">
+
+### 🤖 Future AI Projects
+
+Building intelligent applications that solve practical problems.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gmsethupathi12&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=F7E7CE&text_color=F5F7FA&icon_color=D6B56D&border_color=D6B56D&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsethupathi12&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=F7E7CE&text_color=F5F7FA&icon_color=D6B56D&border_color=D6B56D" height="170"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=gmsethupathi12&background=0B1F3A&ring=D6B56D&fire=F7E7CE&currStreakLabel=F7E7CE&sideLabels=F5F7FA&dates=F5F7FA&currStreakNum=F7E7CE&sideNums=F7E7CE&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-<marquee behavior="scroll" direction="left" scrollamount="5">
-
-Full Stack Development 🚀 &nbsp;&nbsp; • &nbsp;&nbsp;
-React ⚛️ &nbsp;&nbsp; • &nbsp;&nbsp;
-Node.js 🟢 &nbsp;&nbsp; • &nbsp;&nbsp;
-MySQL 🗄️ &nbsp;&nbsp; • &nbsp;&nbsp;
-REST APIs 🔗 &nbsp;&nbsp; • &nbsp;&nbsp;
-DSA 🧠 &nbsp;&nbsp; • &nbsp;&nbsp;
-AI 🤖 &nbsp;&nbsp; • &nbsp;&nbsp;
-IoT 📡
-
-</marquee>
-
----
-
-## 🎯 2026 Goals
-
-- 🌐 Become a strong Full Stack Developer
-- 🧠 Improve DSA & Problem Solving
-- 🔌 Build advanced Embedded & IoT projects
-- 🤖 Build AI-powered applications
-- 🚀 Create production-ready projects
-- 🌍 Contribute to Open Source
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gmsethupathi12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gmsethupathi12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/BACKEND-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/DATABASES-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/DSA-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/AI-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+<img src="https://img.shields.io/badge/IOT-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🎯 Goals
+
+| | Goal |
+|---|---|
+| 🌐 | Become a strong Full Stack Developer |
+| 🧠 | Master DSA & problem solving |
+| 🔌 | Build advanced Embedded & IoT projects |
+| 🤖 | Explore AI integration |
+| 🌍 | Contribute to Open Source |
+| 💼 | Grow into a skilled Software Engineer |
+
+---
+
+## ⚡ Developer Mindset
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=gmsethupathi12&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/LEARN-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/BUILD-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/DEBUG-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/IMPROVE-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
+&nbsp;→&nbsp;
+<img src="https://img.shields.io/badge/REPEAT-F7E7CE?style=for-the-badge&labelColor=0B1F3A"/>
 
 </p>
 
 ---
-
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/gmsethupathi12">
-  <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-gmsethupathi12-0B1F3A?style=for-the-badge&logo=github&logoColor=F7E7CE"/>
 </a>
-&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/sethupathi12" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/sethupathi12">
+<img src="https://img.shields.io/badge/LinkedIn-sethupathi12-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=F7E7CE"/>
 </a>
-&nbsp;&nbsp;
 
 <a href="mailto:gmsethupathi12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+<img src="https://img.shields.io/badge/Gmail-gmsethupathi12%40gmail.com-0B1F3A?style=for-the-badge&logo=gmail&logoColor=F7E7CE"/>
 </a>
 
-</p>
-
-<p align="center">
-  📧 <a href="mailto:gmsethupathi12@gmail.com">gmsethupathi12@gmail.com</a>
-  &nbsp; • &nbsp;
-  💼 <a href="https://www.linkedin.com/in/sethupathi12">LinkedIn</a>
 </p>
 
 ---
 
-<marquee behavior="scroll" direction="left" scrollamount="6">
+<p align="center">
 
-⚡ Learn → Build → Debug → Improve → Repeat ⚡
+<img src="https://img.shields.io/badge/LEARN%20%E2%80%A2%20BUILD%20%E2%80%A2%20SHIP-F7E7CE?style=for-the-badge&labelColor=0B1F3A&color=0B1F3A"/>
 
-</marquee>
+</p>
 
-<h3 align="center">Thanks for visiting my profile! 🚀</h3>
+<h3 align="center">⭐ Thanks for visiting my profile!</h3>
